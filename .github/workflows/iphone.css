@@ -1,0 +1,13 @@
+body{background-size: 100% 100%}
+img{height: 500px;margin-top:
+55px;margin-left: 900px;filter: brightness(1.0) ;}
+#home ul{list-style-type: none}
+#home ul li{display: inline;float: center;padding:1px;margin-left: 50px;}
+
+#im{height: 25px;margin-left: 18px;margin-top: 20px}
+ul{background:lightsteelblue;color: white;height: 70px;text-align: center;border-radius: 20px;cursor: pointer;font-size: 15px}
+#img{height: 400px;cursor: pointer;}
+#text{font-size: 50px;margin-top: -350px;margin-left: 200px ;font-family: calibri}
+#h2{font-size: 30px}
+button{height: 40px;width: 130px;margin-top: 20px;background: lightsteelblue;border: none;color: white;transform: 20s}
+button:hover{background:deeppink;color: white;transition: 0.5s;scale: 1.3;}
